@@ -1,6 +1,6 @@
 [sourse](https://dev.to/aspittel/25-tips-for-new-developers-advice-from-a-mostly-self-taught-software-engineer-1ff1)
 
-# 25 Lời khuyên cho các developer mới: Lời khuyên đến từ (hầu hết) chính các kỹ sư phần mềm
+# 25 Lời khuyên cho các developer mới: Lời khuyên đến từ (hầu hết) các kỹ sư phần mềm tự học
 
 Câu hỏi mà tôi thường thấy nhất từ các đọc giả trên blog là "Lời khuyên cho các lập trình viên mới vào nghề là gì?" Vì thế, tôi nghĩ đã đến lúc để viết ra những suy nghĩ của mình.
 
@@ -14,7 +14,7 @@ Phần còn lại của bài viết này là những lời khuyên của tôi ch
 
 ## Các mẹo của tôi dành cho các lập trình viên mới
 ### 1. Hãy nhớ lấy mục tiêu của bạn
-Nếu bạn muốn bắt đầu công việc lập trình, bạn phải có mục tiêu cho nó. Cho dù bạn yêu việc viết code, hay bạn muốn có một sự nghiệp vững chắc, hoặc bạn đơn giản chỉ là làm công việc với Excel và muốn làm nó hiệu quả hơn. Hãy giữ lấy mục tiêu đó; lập trình thực sự khó, và đôi khi bạn sẽ thấy thất vọng. Nó sẽ là thứ cần thiết để giữ được và gắn bó với mục tiêu trong tâm trí. Bạn có thể đặt một ghi chú nhỏ trên máy tính của bạn, hay một cái note trên màn hình nền điện thoại, hoặc ( giống như tôi ) viết nó lên gương bằng bút lông.
+Nếu bạn muốn bắt đầu công việc lập trình, bạn phải có mục tiêu cho nó. Cho dù bạn yêu việc viết code, hay bạn muốn có một sự nghiệp vững chắc, hoặc bạn đơn giản chỉ là làm công việc với Excel và muốn làm nó hiệu quả hơn. Hãy giữ lấy mục tiêu đó; lập trình thực sự khó, và đôi khi bạn sẽ thấy thất vọng. Bạn sẽ cần giữ cho lý do đó trong tâm trí để gắn bó với nó. Bạn có thể đặt một ghi chú nhỏ trên máy tính của bạn, hay một cái note trên màn hình nền điện thoại, hoặc ( giống như tôi ) viết nó lên gương bằng bút lông.
 
 ### 3. Xây dựng nền tảng vững chắc
 Đây có thể là phần duy nhất của lời khuyên nhưng tôi nghĩ nó thực sự hữu ích. Trước khi bạn bắt đầu viết code, nếu bạn không tìm hiểu về Toán trong một thời gian, tôi nghĩ sẽ phải tìm hiểu lại các khái niệm từ Đại số 1. Hầu hết các chương trình đều phải xây dựng trên Toán đại số 1 - tức là các biến, các hàm. Hiểu được các khái niệm này ngoài việc lập trình còn có rất nhiều giá trị trong tương lai. Tôi đề xuất một khoá học của Khan Academy's Algebra.
@@ -74,7 +74,7 @@ Giải quyết vấn đề là cơ bản nhất đằng sau việc lập trình!
 Một trong những điều lớn nhất phảo học là làm thế nào để tìm câu trả lời hay cho câu hỏi của bạn hoặc để tìm hiểu các tính năng mới của ngôn ngữ hoặc thư viện của bạn. Việc sử dụng Google rất quan trọng, vì vậy hãy tham gia cộng đồng và theo dõi các nguồn tài nguyên. Một mẫu trên Google mà tôi thường sử dụng là "vấn đề về ngôn ngữ / framework / library" trong ít từ nhất có thể và không có các từ thừa. Vì dụ, "sắp xếp mảng JavaScript", "xoay phần tử CSS" hoặc "tạo router Vue".
 
 ### 21. Xây dựng các dự án bạn yêu thích
-Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa chúng vào công việc. Liên quan một chút, hãy hoàn thành các dự án đó. Một vài dự án thực sự thành công là cách ấn tượng hơn nhiều so với việc đã hoàn thành một nửa!
+Khi bạn đang học, bạn sẽ xây dựng các dự án khác nhau để thực hành (và thể hiện) các kỹ năng của bạn. Chọn ý tưởng dự án thú vị với bạn; bạn sẽ có nhiều khả năng để hoàn thành chúng và muốn đưa chúng vào công việc. Liên quan một chút, hãy hoàn thành các dự án đó. Một vài dự án thực sự thành công là cách ấn tượng hơn nhiều so với một số lớn chỉ hoàn thành một nửa!
 
 ### 22. So sánh bản thân với chính mình
 Có rất nhiều người học cách viết code ở đó. Đừng so sánh sự tiến bộ của bạn với người khác, thay vì so sánh bản thân với bạn trước đó và tập trung vào sự phát triển của riêng bạn.
